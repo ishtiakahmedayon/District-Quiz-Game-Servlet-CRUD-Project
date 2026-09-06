@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>Jamalpur District Quiz</h2>
+    <h2>'Jamalpur' District Quiz</h2>
     <p>Crops &middot; Geography &middot; Academic Institutions</p>
 
     <form action="quiz.jsp" method="get">
