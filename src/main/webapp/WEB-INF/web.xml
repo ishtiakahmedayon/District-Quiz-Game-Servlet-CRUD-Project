@@ -9,4 +9,6 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
+    <!-- AnswerServlet is registered via @WebServlet("/answer") in the
+         Java class itself, so no <servlet> mapping is needed here. -->
 </web-app>
